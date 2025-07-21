@@ -23,8 +23,7 @@ Creative technologist blending code, art, and leadership.
 ---
 
 ### 📫 Let's Connect
-- **Email:** [your professional email here]
-- **LinkedIn:** [your LinkedIn link if available]
-- **Portfolio:** Coming soon
+- **Email:** [Oli4Dieter@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/dieter-olivier-0b7799162/]
 
 Thanks for visiting my GitHub! Feel free to explore my projects or reach out 👋
