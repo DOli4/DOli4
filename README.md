@@ -1,4 +1,4 @@
-# Hi, I'm Dieter Olivier ✨
+# Hi, I'm Dieter Olivier
 
 **Final-year Computer Science student** at Belgium Campus iTversity  
 Creative technologist blending code, art, and leadership.
