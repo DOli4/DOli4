@@ -31,6 +31,20 @@
   <li><b>Email:</b> <a href="mailto:Oli4Dieter@gmail.com">Oli4Dieter@gmail.com</a></li>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dieter-olivier-0b7799162/">LinkedIn Profile</a></li>
 </ul>
+<div style="position: relative; display: inline-block; text-align: center;">
+  <img src="https://i.pinimg.com/736x/8c/34/e4/8c34e41eab0478ae64d44cccb528afdb.jpg/400x200" width="400" style="border-radius:10px;">
 
+  <div style="
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    background-color: rgba(0,0,0,0.5); 
+    color: white; 
+    padding: 10px; 
+    border-radius: 5px;">
+    Overlay Text Here
+  </div>
+</div>
 
 
