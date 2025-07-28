@@ -1,14 +1,10 @@
-<table width="100%">
-  <tr><td bgcolor="#55CDFC" align="center"><h1>Hi, I'm Dieter Olivier</h1></td></tr>
-  <tr><td bgcolor="#F7A8B8" align="center"><h3>Final-year Bachelor of Computing student at Belgium Campus iTversity</h3></td></tr>
-  <tr><td bgcolor="#FFFFFF" align="center"><b>Creative technologist blending code, art, and leadership.</b></td></tr>
-</table>
+<h1 align="center">Hi, I'm Dieter Olivier</h1>
+<h3 align="center">Final-year Bachelor of Computing student at Belgium Campus iTversity</h3>
+<p align="center"><b>Creative technologist blending code, art, and leadership.</b></p>
 
 <hr>
 
-<table width="100%">
-  <tr><td bgcolor="#55CDFC"><h2>Technical Skills</h2></td></tr>
-</table>
+<h2>Technical Skills</h2>
 <ul>
   <li><b>Languages:</b> Java, Python, C#, JavaScript, C++ (basic), SQL</li>
   <li><b>Web Tech:</b> HTML, CSS, Node.js, Express.js, EJS</li>
@@ -19,9 +15,7 @@
 
 <hr>
 
-<table width="100%">
-  <tr><td bgcolor="#F7A8B8"><h2>What I Do</h2></td></tr>
-</table>
+<h2>What I Do</h2>
 <ul>
   <li>Build full-stack applications using modern web technologies</li>
   <li>Design creative, user-friendly UIs and prototypes</li>
@@ -31,12 +25,8 @@
 
 <hr>
 
-<table width="100%">
-  <tr><td bgcolor="#FFFFFF"><h2>Let's Connect</h2></td></tr>
-</table>
+<h2>Let's Connect</h2>
 <ul>
   <li><b>Email:</b> <a href="mailto:Oli4Dieter@gmail.com">Oli4Dieter@gmail.com</a></li>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dieter-olivier-0b7799162/">LinkedIn Profile</a></li>
 </ul>
-
-
