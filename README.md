@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#55CDFC;">Hi, I'm Dieter Olivier</h1>
+<h1 align="center">< style=color="#55CDFC">Hi, I'm Dieter Olivier</font></h1>
 <h3 align="center" style="color:#F7A8B8;">Final-year Bachelor of Computing student at Belgium Campus iTversity</h3>
 <p align="center" style="color:#FFFFFF;"><b>Creative technologist blending code, art, and leadership.</b></p>
 
