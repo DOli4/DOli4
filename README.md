@@ -39,7 +39,7 @@
     top: 50%; 
     left: 50%; 
     transform: translate(-50%, -50%); 
-    background-color: rgba(0,0,0,0.5); 
+    background-color: rgba(0,0,0,0.7); 
     color: white; 
     padding: 10px; 
     border-radius: 5px;">
