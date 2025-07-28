@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Dieter Olivier</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Hi,%20I'm%20Dieter%20Olivier&fontSize=35&color=gradient&customColorList=2,4,1,4,2" />
+</p>
 <h3 align="center">Final-year Bachelor of Computing student at Belgium Campus iTversity</h3>
 <p align="center"><b>Creative technologist blending code, art, and leadership.</b></p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Hi,%20I'm%20Dieter%20Olivier&fontSize=30&color=gradient&customColorList=2,4,1,4,2" />
-</p>
 <hr>
 
 <h2>Technical Skills</h2>
