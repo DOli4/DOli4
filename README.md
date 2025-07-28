@@ -17,7 +17,6 @@
 
 <h2>What I Do</h2>
 <ul>
-  <img src="https://i.pinimg.com/736x/8c/34/e4/8c34e41eab0478ae64d44cccb528afdb.jpg" alt="My Profile Picture">
   <li>Build full-stack applications using modern web technologies</li>
   <li>Design creative, user-friendly UIs and prototypes</li>
   <li>Lead and collaborate in team projects (Team Leader experience)</li>
@@ -32,7 +31,7 @@
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dieter-olivier-0b7799162/">LinkedIn Profile</a></li>
 </ul>
 <div style="position: relative; display: inline-block; text-align: center;">
-  <img src="https://i.pinimg.com/736x/8c/34/e4/8c34e41eab0478ae64d44cccb528afdb.jpg/400x200" width="400" style="border-radius:10px;">
+  <img src="https://i.pinimg.com/736x/8c/34/e4/8c34e41eab0478ae64d44cccb528afdb.jpg" width="400" style="border-radius:10px;">
 
   <div style="
     position: absolute; 
