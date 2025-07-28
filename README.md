@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dieter Olivier</h1>
-<h3 align="center">Final-year Computer Science student at Belgium Campus iTversity</h3>
+<h3 align="center">Final-year Bachelor of Computing student at Belgium Campus iTversity</h3>
 <p align="center"><b>Creative technologist blending code, art, and leadership.</b></p>
 
 <hr>
