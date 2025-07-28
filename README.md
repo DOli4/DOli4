@@ -31,11 +31,5 @@
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dieter-olivier-0b7799162/">LinkedIn Profile</a></li>
 </ul>
 
-<hr>
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DOli4&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOli4&layout=compact&theme=tokyonight" height="165">
-</p>
 
