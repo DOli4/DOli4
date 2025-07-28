@@ -22,12 +22,10 @@ Creative technologist blending code, art, and leadership.
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 - **Email:** [Oli4Dieter@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/dieter-olivier-0b7799162/]
 
 ### GitHub Stats
 ![Dieter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DOli4&show_icons=true&theme=tokyonight)
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOli4&layout=compact&theme=tokyonight)
