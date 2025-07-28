@@ -29,3 +29,5 @@ Creative technologist blending code, art, and leadership.
 ### GitHub Stats
 ![Dieter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DOli4&show_icons=true&theme=tokyonight)
 
+![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
