@@ -26,4 +26,5 @@ Creative technologist blending code, art, and leadership.
 - **Email:** [Oli4Dieter@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/dieter-olivier-0b7799162/]
 
-Thanks for visiting my GitHub! Feel free to explore my projects or reach out 👋
+!Dieter GitHub Stats
+!Top Langs
